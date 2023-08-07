@@ -29,9 +29,9 @@
  */
 export default {
   // 博客基础配置
-  title: 'wallleap',
-  subtitle: 'ルー・ワン',
-  description: 'Luwang\'s blog',
+  title: '博客',
+  subtitle: '副标题',
+  description: '博客介绍',
   keywords: 'Luwang, blog, wallleap',
   favicon: '/favicon.ico',
   favicon16: '/favicon.ico',
@@ -44,19 +44,19 @@ export default {
   // 关于页二维码
   alipay_qr: '//cdn.wallleap.cn/img/custom/donate/alipayQr.jpg',
   // GitHub Issues 配置
-  username: 'wallleap',
-  repository: 'myblogs',
+  username: 'oicoder',
+  repository: 'blog',
   friendsRepo: 'friends',
   // 您的信息
-  author: 'Luwang',
+  author: '作者',
   email: 'luwang@oicode.cn',
   link: '//luwang.info',
-  github: '//github.com/wallleap',
+  github: '//github.com/oicode',
   // 友链信息
-  name: 'wallleap',
-  url: '//myblog.wallleap.cn',
+  name: 'oicode',
+  url: '//oicode.cn',
   avatar: '//gravatar.wallleap.cn/avatar/be1ccdcf025a92b98a92e331e1b3662a?size=256',
-  desc: 'Luwang\'s blog',
+  desc: '博客介绍',
   // 文章相关
   pageSize: 12,
   defaultCover: '//cdn.wallleap.cn/img/post/1.jpg',
@@ -65,9 +65,9 @@ export default {
   // 评论配置
   utterances: {
     code: `<script src="https://utteranc.es/client.js"
-      repo="wallleap/comments"
+      repo="oicoder/comments"
       issue-term="title"
-      label="Comment"
+      label="💬"
       theme="github-light"
       crossorigin="anonymous"
       async>
